@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "astuvansalmi",
+        "name": "Astuvansalmi",
+        "municipality": "Ristiina, Mikkeli",
+        "figures": "about 80",
+        "age": "about 5000 years"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.54414, 61.44415]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "saraakallio",
+        "name": "Saraakallio",
+        "municipality": "Laukaa",
+        "figures": "over 100",
+        "age": "about 5000 years"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.99705, 62.41754]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "varikallio",
+        "name": "Värikallio",
+        "municipality": "Hossa, Suomussalmi",
+        "figures": "over 60",
+        "age": "about 4000 years"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [29.30247, 65.51434]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "uef",
+        "kind": "lab",
+        "chapter": "lab-2023",
+        "name": "UEF Joensuu",
+        "municipality": "Joensuu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [29.7407, 62.6047]
+      }
+    }
+  ]
+}

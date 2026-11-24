@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 1200" font-family="DejaVu Sans, Helvetica, Arial, sans-serif">
+<rect width="660" height="1200" fill="#141416"/>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#b8b4a8"/></marker></defs>
+<text x="50" y="92" fill="#f3f1ea" font-size="30" font-weight="bold">One Specim IQ cube</text>
+<text x="50" y="128" fill="#b8b4a8" font-size="19">512 × 512 pixels × 204 wavelengths</text>
+<text x="50" y="156" fill="#b8b4a8" font-size="19">one greyscale image per band, 400–1000 nm</text>
+<rect x="70.0" y="360.0" width="260" height="260" rx="3" fill="#7608ad" stroke="#141416" stroke-width="1.6"/>
+<rect x="77.6" y="354.8" width="260" height="260" rx="3" fill="#3908ad" stroke="#141416" stroke-width="1.6"/>
+<rect x="85.2" y="349.6" width="260" height="260" rx="3" fill="#0816ad" stroke="#141416" stroke-width="1.6"/>
+<rect x="92.8" y="344.4" width="260" height="260" rx="3" fill="#0860ad" stroke="#141416" stroke-width="1.6"/>
+<rect x="100.4" y="339.2" width="260" height="260" rx="3" fill="#08aaad" stroke="#141416" stroke-width="1.6"/>
+<rect x="108.0" y="334.0" width="260" height="260" rx="3" fill="#0aad08" stroke="#141416" stroke-width="1.6"/>
+<rect x="115.6" y="328.8" width="260" height="260" rx="3" fill="#3fad08" stroke="#141416" stroke-width="1.6"/>
+<rect x="123.2" y="323.6" width="260" height="260" rx="3" fill="#73ad08" stroke="#141416" stroke-width="1.6"/>
+<rect x="130.8" y="318.4" width="260" height="260" rx="3" fill="#a8ad08" stroke="#141416" stroke-width="1.6"/>
+<rect x="138.4" y="313.2" width="260" height="260" rx="3" fill="#ad7a08" stroke="#141416" stroke-width="1.6"/>
+<rect x="146.0" y="308.0" width="260" height="260" rx="3" fill="#ad4208" stroke="#141416" stroke-width="1.6"/>
+<rect x="153.6" y="302.8" width="260" height="260" rx="3" fill="#ad0908" stroke="#141416" stroke-width="1.6"/>
+<rect x="161.2" y="297.6" width="260" height="260" rx="3" fill="#ad0808" stroke="#141416" stroke-width="1.6"/>
+<rect x="168.8" y="292.4" width="260" height="260" rx="3" fill="#ad0808" stroke="#141416" stroke-width="1.6"/>
+<rect x="176.4" y="287.2" width="260" height="260" rx="3" fill="#891c1c" stroke="#141416" stroke-width="1.6"/>
+<rect x="184.0" y="282.0" width="260" height="260" rx="3" fill="#831d1e" stroke="#141416" stroke-width="1.6"/>
+<rect x="191.6" y="276.8" width="260" height="260" rx="3" fill="#7d1d1f" stroke="#141416" stroke-width="1.6"/>
+<rect x="199.2" y="271.6" width="260" height="260" rx="3" fill="#771e21" stroke="#141416" stroke-width="1.6"/>
+<rect x="206.8" y="266.4" width="260" height="260" rx="3" fill="#711f22" stroke="#141416" stroke-width="1.6"/>
+<rect x="214.4" y="261.2" width="260" height="260" rx="3" fill="#6a1f24" stroke="#141416" stroke-width="1.6"/>
+<rect x="222.0" y="256.0" width="260" height="260" rx="3" fill="#642025" stroke="#141416" stroke-width="1.6"/>
+<rect x="229.6" y="250.8" width="260" height="260" rx="3" fill="#5e2126" stroke="#141416" stroke-width="1.6"/>
+<rect x="237.2" y="245.6" width="260" height="260" rx="3" fill="#582228" stroke="#141416" stroke-width="1.6"/>
+<rect x="244.8" y="240.4" width="260" height="260" rx="3" fill="#522229" stroke="#141416" stroke-width="1.6"/>
+<rect x="252.4" y="235.2" width="260" height="260" rx="3" fill="#4c232b" stroke="#141416" stroke-width="1.6"/>
+<rect x="260.0" y="230.0" width="260" height="260" rx="3" fill="#46242c" stroke="#141416" stroke-width="1.6"/>
+<rect x="267.6" y="224.8" width="260" height="260" rx="3" fill="#3f252e" stroke="#141416" stroke-width="1.6"/>
+<rect x="275.2" y="219.6" width="260" height="260" rx="3" fill="#39252f" stroke="#141416" stroke-width="1.6"/>
+<rect x="275.2" y="219.6" width="260" height="260" rx="3" fill="#1a1412" fill-opacity="0.45"/>
+<rect x="435.2" y="339.6" width="12" height="12" fill="none" stroke="#f3f1ea" stroke-width="2.5"/>
+<text x="70" y="652" fill="#b8b4a8" font-size="19">x · 512 px</text>
+<text x="48" y="490.0" fill="#b8b4a8" font-size="19" transform="rotate(-90 48 490.0)" text-anchor="middle">y · 512 px</text>
+<path d="M348.0,626.0 L553.2,225.6" stroke="#b8b4a8" stroke-width="1.5" marker-end="url(#a)"/>
+<text x="356.0" y="630.0" fill="#b8b4a8" font-size="18">400 nm</text>
+<text x="543.2" y="211.6" fill="#b8b4a8" font-size="18" text-anchor="end">1000 nm</text>
+<text x="476.6" y="433.8" fill="#b8b4a8" font-size="17" transform="rotate(-34 476.6 433.8)">204 bands</text>
+<text x="80" y="750" fill="#f3f1ea" font-size="21">One pixel, one curve</text>
+<text x="80" y="774" fill="#b8b4a8" font-size="16">ochre on rock, field sample 12, Lambda 1050</text>
+<rect x="80.0" y="790" width="9.2" height="290" fill="#aa00ff" fill-opacity="0.14"/>
+<rect x="88.7" y="790" width="9.2" height="290" fill="#7f00ff" fill-opacity="0.14"/>
+<rect x="97.3" y="790" width="9.2" height="290" fill="#5500ff" fill-opacity="0.14"/>
+<rect x="106.0" y="790" width="9.2" height="290" fill="#2a00ff" fill-opacity="0.14"/>
+<rect x="114.7" y="790" width="9.2" height="290" fill="#0000ff" fill-opacity="0.14"/>
+<rect x="123.3" y="790" width="9.2" height="290" fill="#0033ff" fill-opacity="0.14"/>
+<rect x="132.0" y="790" width="9.2" height="290" fill="#0066ff" fill-opacity="0.14"/>
+<rect x="140.7" y="790" width="9.2" height="290" fill="#0099ff" fill-opacity="0.14"/>
+<rect x="149.3" y="790" width="9.2" height="290" fill="#00ccff" fill-opacity="0.14"/>
+<rect x="158.0" y="790" width="9.2" height="290" fill="#00ffff" fill-opacity="0.14"/>
+<rect x="166.7" y="790" width="9.2" height="290" fill="#00ff7f" fill-opacity="0.14"/>
+<rect x="175.3" y="790" width="9.2" height="290" fill="#00ff00" fill-opacity="0.14"/>
+<rect x="184.0" y="790" width="9.2" height="290" fill="#24ff00" fill-opacity="0.14"/>
+<rect x="192.7" y="790" width="9.2" height="290" fill="#48ff00" fill-opacity="0.14"/>
+<rect x="201.3" y="790" width="9.2" height="290" fill="#6dff00" fill-opacity="0.14"/>
+<rect x="210.0" y="790" width="9.2" height="290" fill="#91ff00" fill-opacity="0.14"/>
+<rect x="218.7" y="790" width="9.2" height="290" fill="#b6ff00" fill-opacity="0.14"/>
+<rect x="227.3" y="790" width="9.2" height="290" fill="#daff00" fill-opacity="0.14"/>
+<rect x="236.0" y="790" width="9.2" height="290" fill="#ffff00" fill-opacity="0.14"/>
+<rect x="244.7" y="790" width="9.2" height="290" fill="#ffd700" fill-opacity="0.14"/>
+<rect x="253.3" y="790" width="9.2" height="290" fill="#ffb000" fill-opacity="0.14"/>
+<rect x="262.0" y="790" width="9.2" height="290" fill="#ff8900" fill-opacity="0.14"/>
+<rect x="270.7" y="790" width="9.2" height="290" fill="#ff6200" fill-opacity="0.14"/>
+<rect x="279.3" y="790" width="9.2" height="290" fill="#ff3a00" fill-opacity="0.14"/>
+<rect x="288.0" y="790" width="9.2" height="290" fill="#ff1300" fill-opacity="0.14"/>
+<rect x="296.7" y="790" width="9.2" height="290" fill="#ff0000" fill-opacity="0.14"/>
+<rect x="305.3" y="790" width="9.2" height="290" fill="#ff0000" fill-opacity="0.14"/>
+<rect x="314.0" y="790" width="9.2" height="290" fill="#ff0000" fill-opacity="0.14"/>
+<rect x="322.7" y="790" width="9.2" height="290" fill="#ff0000" fill-opacity="0.14"/>
+<rect x="331.3" y="790" width="9.2" height="290" fill="#ff0000" fill-opacity="0.14"/>
+<rect x="340.0" y="790" width="9.2" height="290" fill="#ff0000" fill-opacity="0.14"/>
+<rect x="348.7" y="790" width="9.2" height="290" fill="#c71f1f" fill-opacity="0.14"/>
+<rect x="357.3" y="790" width="9.2" height="290" fill="#c31f20" fill-opacity="0.14"/>
+<rect x="366.0" y="790" width="9.2" height="290" fill="#bf2021" fill-opacity="0.14"/>
+<rect x="374.7" y="790" width="9.2" height="290" fill="#bb2022" fill-opacity="0.14"/>
+<rect x="383.3" y="790" width="9.2" height="290" fill="#b62123" fill-opacity="0.14"/>
+<rect x="392.0" y="790" width="9.2" height="290" fill="#b22124" fill-opacity="0.14"/>
+<rect x="400.7" y="790" width="9.2" height="290" fill="#ae2225" fill-opacity="0.14"/>
+<rect x="409.3" y="790" width="9.2" height="290" fill="#aa2226" fill-opacity="0.14"/>
+<rect x="418.0" y="790" width="9.2" height="290" fill="#a52327" fill-opacity="0.14"/>
+<rect x="426.7" y="790" width="9.2" height="290" fill="#a12328" fill-opacity="0.14"/>
+<rect x="435.3" y="790" width="9.2" height="290" fill="#9d2429" fill-opacity="0.14"/>
+<rect x="444.0" y="790" width="9.2" height="290" fill="#99242a" fill-opacity="0.14"/>
+<rect x="452.7" y="790" width="9.2" height="290" fill="#94252b" fill-opacity="0.14"/>
+<rect x="461.3" y="790" width="9.2" height="290" fill="#90252c" fill-opacity="0.14"/>
+<rect x="470.0" y="790" width="9.2" height="290" fill="#8c262d" fill-opacity="0.14"/>
+<rect x="478.7" y="790" width="9.2" height="290" fill="#88262e" fill-opacity="0.14"/>
+<rect x="487.3" y="790" width="9.2" height="290" fill="#83272f" fill-opacity="0.14"/>
+<rect x="496.0" y="790" width="9.2" height="290" fill="#7f2730" fill-opacity="0.14"/>
+<rect x="504.7" y="790" width="9.2" height="290" fill="#7b2831" fill-opacity="0.14"/>
+<rect x="513.3" y="790" width="9.2" height="290" fill="#772832" fill-opacity="0.14"/>
+<rect x="522.0" y="790" width="9.2" height="290" fill="#722934" fill-opacity="0.14"/>
+<rect x="530.7" y="790" width="9.2" height="290" fill="#6e2935" fill-opacity="0.14"/>
+<rect x="539.3" y="790" width="9.2" height="290" fill="#6a2a36" fill-opacity="0.14"/>
+<rect x="548.0" y="790" width="9.2" height="290" fill="#662a37" fill-opacity="0.14"/>
+<rect x="556.7" y="790" width="9.2" height="290" fill="#612b38" fill-opacity="0.14"/>
+<rect x="565.3" y="790" width="9.2" height="290" fill="#5d2b39" fill-opacity="0.14"/>
+<rect x="574.0" y="790" width="9.2" height="290" fill="#592c3a" fill-opacity="0.14"/>
+<rect x="582.7" y="790" width="9.2" height="290" fill="#552c3b" fill-opacity="0.14"/>
+<rect x="591.3" y="790" width="9.2" height="290" fill="#502d3c" fill-opacity="0.14"/>
+<rect x="80" y="790" width="520" height="290" fill="none" stroke="#2c2c30" stroke-width="1.5"/>
+<path d="M441.2,351.6 L270.7,740" stroke="#f3f1ea" stroke-width="1.4" stroke-dasharray="5 5" opacity="0.6"/>
+<polyline points="80.0,1007.2 88.7,1006.5 97.3,1005.6 106.0,1004.3 114.7,1002.9 123.3,1001.9 132.0,1000.4 140.7,999.7 149.3,998.5 158.0,997.8 166.7,996.6 175.3,995.6 184.0,994.3 192.7,992.7 201.3,990.5 210.0,987.0 218.7,982.5 227.3,974.5 236.0,964.2 244.7,952.5 253.3,942.1 262.0,934.3 270.7,928.8 279.3,924.9 288.0,921.5 296.7,918.7 305.3,915.3 314.0,911.1 322.7,906.3 331.3,900.8 340.0,895.7 348.7,890.8 357.3,886.0 366.0,882.7 374.7,880.1 383.3,879.1 392.0,878.7 400.7,879.6 409.3,881.5 418.0,882.8 426.7,885.4 435.3,886.0 444.0,888.4 452.7,890.7 461.3,891.6 470.0,892.8 478.7,902.4 487.3,904.2 496.0,903.4 504.7,902.6 513.3,899.7 522.0,897.8 530.7,895.0 539.3,892.1 548.0,887.4 556.7,883.4 565.3,878.9 574.0,874.7 582.7,869.4 591.3,865.1 600.0,860.6" fill="none" stroke="#d95926" stroke-width="4" stroke-linejoin="round"/>
+<text x="80.0" y="1108" fill="#b8b4a8" font-size="17" text-anchor="middle">400</text>
+<text x="210.0" y="1108" fill="#b8b4a8" font-size="17" text-anchor="middle">550</text>
+<text x="340.0" y="1108" fill="#b8b4a8" font-size="17" text-anchor="middle">700</text>
+<text x="470.0" y="1108" fill="#b8b4a8" font-size="17" text-anchor="middle">850</text>
+<text x="600.0" y="1108" fill="#b8b4a8" font-size="17" text-anchor="middle">1000</text>
+<text x="340.0" y="1138" fill="#b8b4a8" font-size="17" text-anchor="middle">Wavelength (nm)</text>
+<text x="70" y="1080" fill="#b8b4a8" font-size="15" text-anchor="end">0</text>
+<text x="70" y="798" fill="#b8b4a8" font-size="15" text-anchor="end">45%</text>
+</svg>

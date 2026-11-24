@@ -1,0 +1,685 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Pyhävuori", "municipality": "Alajärvi" },
+      "geometry": { "type": "Point", "coordinates": [23.7353, 63.07948] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Huonpohjanvuori", "municipality": "Asikkala" },
+      "geometry": { "type": "Point", "coordinates": [25.77563, 61.22178] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Patalahti", "municipality": "Asikkala" },
+      "geometry": { "type": "Point", "coordinates": [25.72649, 61.21357] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Väinönkallio / Leveälahti", "municipality": "Asikkala" },
+      "geometry": { "type": "Point", "coordinates": [25.8734, 61.18097] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Haukkalahdenvuori I", "municipality": "Enonkoski" },
+      "geometry": { "type": "Point", "coordinates": [28.91913, 62.20018] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Haukkalahdenvuori II", "municipality": "Enonkoski" },
+      "geometry": { "type": "Point", "coordinates": [28.9227, 62.19918] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Kurtinvuori", "municipality": "Enonkoski" },
+      "geometry": { "type": "Point", "coordinates": [28.92878, 62.14354] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Ukonvuori", "municipality": "Enonkoski" },
+      "geometry": { "type": "Point", "coordinates": [28.86777, 62.24299] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Jäniskallio", "municipality": "Espoo" },
+      "geometry": { "type": "Point", "coordinates": [24.58843, 60.26216] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Lusi / Ala-Rieveli", "municipality": "Heinola" },
+      "geometry": { "type": "Point", "coordinates": [26.14992, 61.29308] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Rajakivi", "municipality": "Heinola" },
+      "geometry": { "type": "Point", "coordinates": [26.14202, 61.20669] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Rautvuori", "municipality": "Heinola" },
+      "geometry": { "type": "Point", "coordinates": [26.08619, 61.26565] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Humalniemi", "municipality": "Heinävesi" },
+      "geometry": { "type": "Point", "coordinates": [28.97941, 62.34269] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Luutsalo", "municipality": "Heinävesi" },
+      "geometry": { "type": "Point", "coordinates": [28.75296, 62.60374] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Vierunvuori", "municipality": "Heinävesi" },
+      "geometry": { "type": "Point", "coordinates": [28.75187, 62.31771] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Hahlavuori", "municipality": "Hirvensalmi" },
+      "geometry": { "type": "Point", "coordinates": [26.45585, 61.83056] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Hopeakallio", "municipality": "Hämeenlinna" },
+      "geometry": { "type": "Point", "coordinates": [25.10214, 61.06247] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Haukkavuori", "municipality": "Iitti" },
+      "geometry": { "type": "Point", "coordinates": [26.20636, 60.99349] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Karhusaari", "municipality": "Iitti" },
+      "geometry": { "type": "Point", "coordinates": [26.15507, 61.12502] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Kelloniemi Haukkavuori", "municipality": "Iitti" },
+      "geometry": { "type": "Point", "coordinates": [26.18899, 61.12405] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Kymenkäänne", "municipality": "Iitti" },
+      "geometry": { "type": "Point", "coordinates": [26.16395, 61.03227] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Mertakallio", "municipality": "Iitti" },
+      "geometry": { "type": "Point", "coordinates": [26.24786, 60.99633] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Rautakannanvuori", "municipality": "Iitti" },
+      "geometry": { "type": "Point", "coordinates": [26.19494, 61.13253] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Kokkokallio", "municipality": "Ilomantsi" },
+      "geometry": { "type": "Point", "coordinates": [30.69582, 62.88149] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Viherinkoski A (länsi)", "municipality": "Joutsa" },
+      "geometry": { "type": "Point", "coordinates": [26.18619, 61.72863] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Viherinkoski B (itä)", "municipality": "Joutsa" },
+      "geometry": { "type": "Point", "coordinates": [26.18737, 61.72964] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Enkelinpesä", "municipality": "Juva" },
+      "geometry": { "type": "Point", "coordinates": [27.80148, 61.71282] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Papinsänky", "municipality": "Juva" },
+      "geometry": { "type": "Point", "coordinates": [27.63435, 61.71406] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Sarkaslampi", "municipality": "Juva" },
+      "geometry": { "type": "Point", "coordinates": [27.92838, 61.59446] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Sarkasvuori", "municipality": "Juva" },
+      "geometry": { "type": "Point", "coordinates": [27.92574, 61.59802] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Hakavuori / Raidanlahti", "municipality": "Jyväskylä" },
+      "geometry": { "type": "Point", "coordinates": [25.75162, 61.9882] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Halsvuori", "municipality": "Jyväskylä" },
+      "geometry": { "type": "Point", "coordinates": [25.81297, 62.36988] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Käpinniemi", "municipality": "Jämsä" },
+      "geometry": { "type": "Point", "coordinates": [24.72411, 61.93488] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Juusjärvi", "municipality": "Kirkkonummi" },
+      "geometry": { "type": "Point", "coordinates": [24.42685, 60.18703] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Vitträsk", "municipality": "Kirkkonummi" },
+      "geometry": { "type": "Point", "coordinates": [24.52172, 60.18556] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Jyrkätkalliot", "municipality": "Kitee" },
+      "geometry": { "type": "Point", "coordinates": [29.74039, 61.89826] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Kuerlinkat itä", "municipality": "Kolari" },
+      "geometry": { "type": "Point", "coordinates": [24.03862, 67.57113] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Jumalniemi 2", "municipality": "Kotka" },
+      "geometry": { "type": "Point", "coordinates": [26.92546, 60.50432] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Haukilahti", "municipality": "Kouvola" },
+      "geometry": { "type": "Point", "coordinates": [26.43589, 61.15423] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Jyrkkävuori", "municipality": "Kouvola" },
+      "geometry": { "type": "Point", "coordinates": [26.85836, 60.93185] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Kapasaari", "municipality": "Kouvola" },
+      "geometry": { "type": "Point", "coordinates": [26.65284, 61.24226] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Kintahuonvuori", "municipality": "Kouvola" },
+      "geometry": { "type": "Point", "coordinates": [26.45015, 61.02217] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Kukkovuori / Lovasjärvi", "municipality": "Kouvola" },
+      "geometry": { "type": "Point", "coordinates": [27.13687, 61.14448] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Lakiasuonvuori", "municipality": "Kouvola" },
+      "geometry": { "type": "Point", "coordinates": [26.93487, 60.94026] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Löppösen luola", "municipality": "Kouvola" },
+      "geometry": { "type": "Point", "coordinates": [26.83812, 61.17548] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Olhavanlampi", "municipality": "Kouvola" },
+      "geometry": { "type": "Point", "coordinates": [26.83788, 61.18589] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Pakanavuori", "municipality": "Kouvola" },
+      "geometry": { "type": "Point", "coordinates": [26.59428, 60.94549] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Patakallio", "municipality": "Kouvola" },
+      "geometry": { "type": "Point", "coordinates": [26.46821, 61.13612] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Revonkärki", "municipality": "Kouvola" },
+      "geometry": { "type": "Point", "coordinates": [26.87365, 60.93788] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Tupavuori", "municipality": "Kouvola" },
+      "geometry": { "type": "Point", "coordinates": [26.62053, 61.23472] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Tyynelä-Vesitorninmäki", "municipality": "Kouvola" },
+      "geometry": { "type": "Point", "coordinates": [26.44612, 60.72257] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Uutelanvuori 1", "municipality": "Kouvola" },
+      "geometry": { "type": "Point", "coordinates": [26.42774, 61.16709] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Uutelanvuori 2", "municipality": "Kouvola" },
+      "geometry": { "type": "Point", "coordinates": [26.4285, 61.16651] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Verla", "municipality": "Kouvola" },
+      "geometry": { "type": "Point", "coordinates": [26.63652, 61.06356] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Voikoski", "municipality": "Kouvola" },
+      "geometry": { "type": "Point", "coordinates": [26.7738, 61.25768] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Pyhänpää", "municipality": "Kuhmoinen" },
+      "geometry": { "type": "Point", "coordinates": [25.47469, 61.6417] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Pyhävuori", "municipality": "Kuhmoinen" },
+      "geometry": { "type": "Point", "coordinates": [25.46976, 61.63831] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Julma-Ölkky", "municipality": "Kuusamo" },
+      "geometry": { "type": "Point", "coordinates": [29.32655, 65.54397] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Linnakallio B", "municipality": "Lahti" },
+      "geometry": { "type": "Point", "coordinates": [25.96761, 61.00515] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Keltavuori", "municipality": "Lappeenranta" },
+      "geometry": { "type": "Point", "coordinates": [28.03743, 60.94409] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Salmenvuori", "municipality": "Lappeenranta" },
+      "geometry": { "type": "Point", "coordinates": [27.89679, 61.02076] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Iso Kuhajärvi", "municipality": "Laukaa" },
+      "geometry": { "type": "Point", "coordinates": [25.93621, 62.37323] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Saraakallio I", "municipality": "Laukaa" },
+      "geometry": { "type": "Point", "coordinates": [25.99705, 62.41754] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Saraakallio II", "municipality": "Laukaa" },
+      "geometry": { "type": "Point", "coordinates": [26.00097, 62.41604] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Uittovuori", "municipality": "Laukaa" },
+      "geometry": { "type": "Point", "coordinates": [26.25049, 62.38127] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Haukkasaari", "municipality": "Lemi" },
+      "geometry": { "type": "Point", "coordinates": [27.68533, 61.01795] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Ilmuksenvuori", "municipality": "Lemi" },
+      "geometry": { "type": "Point", "coordinates": [27.69338, 61.01415] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Linnasaari", "municipality": "Lemi" },
+      "geometry": { "type": "Point", "coordinates": [27.74021, 61.00026] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Ruominkapia", "municipality": "Lemi" },
+      "geometry": { "type": "Point", "coordinates": [27.78619, 61.03599] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Venäjänniemi", "municipality": "Lemi" },
+      "geometry": { "type": "Point", "coordinates": [27.73942, 61.00619] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Karhuvuori", "municipality": "Leppävirta" },
+      "geometry": { "type": "Point", "coordinates": [27.85428, 62.41302] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Ukkokivi", "municipality": "Leppävirta" },
+      "geometry": { "type": "Point", "coordinates": [27.53038, 62.53201] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Karstun Linnanmäki 1", "municipality": "Lohja" },
+      "geometry": { "type": "Point", "coordinates": [23.93364, 60.29681] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Avosaari", "municipality": "Luhanka" },
+      "geometry": { "type": "Point", "coordinates": [25.69125, 61.72534] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Ievasvuori", "municipality": "Luumäki" },
+      "geometry": { "type": "Point", "coordinates": [27.3679, 60.97782] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Inkilä", "municipality": "Luumäki" },
+      "geometry": { "type": "Point", "coordinates": [27.36871, 61.03194] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Kalamaniemi 1", "municipality": "Luumäki" },
+      "geometry": { "type": "Point", "coordinates": [27.37852, 61.01602] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Kalamaniemi 2", "municipality": "Luumäki" },
+      "geometry": { "type": "Point", "coordinates": [27.37377, 61.02143] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Muuraisvuoret", "municipality": "Luumäki" },
+      "geometry": { "type": "Point", "coordinates": [27.6037, 60.97491] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Myllyoja", "municipality": "Luumäki" },
+      "geometry": { "type": "Point", "coordinates": [27.3497, 61.00336] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Siliävuori", "municipality": "Luumäki" },
+      "geometry": { "type": "Point", "coordinates": [27.35368, 61.04508] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Valkjärvi", "municipality": "Luumäki" },
+      "geometry": { "type": "Point", "coordinates": [27.91236, 60.88038] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Vaskivuori", "municipality": "Luumäki" },
+      "geometry": { "type": "Point", "coordinates": [27.8304, 60.87247] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Mätikän luola", "municipality": "Masku" },
+      "geometry": { "type": "Point", "coordinates": [22.11644, 60.57925] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Ristniemenvuori", "municipality": "Miehikkälä" },
+      "geometry": { "type": "Point", "coordinates": [27.68767, 60.7925] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Astuvansalmi", "municipality": "Mikkeli" },
+      "geometry": { "type": "Point", "coordinates": [27.54414, 61.44415] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Louhtovuori", "municipality": "Mikkeli" },
+      "geometry": { "type": "Point", "coordinates": [27.30023, 61.3821] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Tikaskaarteenvuori", "municipality": "Mikkeli" },
+      "geometry": { "type": "Point", "coordinates": [27.77936, 61.66082] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Uittamonsalmi I", "municipality": "Mikkeli" },
+      "geometry": { "type": "Point", "coordinates": [27.37392, 61.45739] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Uittomansalmi II", "municipality": "Mikkeli" },
+      "geometry": { "type": "Point", "coordinates": [27.37559, 61.45666] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Uittamonsalmi III", "municipality": "Mikkeli" },
+      "geometry": { "type": "Point", "coordinates": [27.37672, 61.45648] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Uittamonsalmi IV", "municipality": "Mikkeli" },
+      "geometry": { "type": "Point", "coordinates": [27.37668, 61.45651] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Verijärvi - Haukilahti", "municipality": "Mikkeli" },
+      "geometry": { "type": "Point", "coordinates": [27.13687, 61.7098] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Haukkavuori", "municipality": "Mäntyharju" },
+      "geometry": { "type": "Point", "coordinates": [26.77355, 61.33363] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Itkonlahti", "municipality": "Mäntyharju" },
+      "geometry": { "type": "Point", "coordinates": [27.11845, 61.39511] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Kannonalus", "municipality": "Mäntyharju" },
+      "geometry": { "type": "Point", "coordinates": [26.76536, 61.34005] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Haukkasalo 1", "municipality": "Padasjoki" },
+      "geometry": { "type": "Point", "coordinates": [25.35576, 61.37467] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Rekottilan linnavuori", "municipality": "Paimio" },
+      "geometry": { "type": "Point", "coordinates": [22.74686, 60.42784] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Kuorevaara", "municipality": "Parikkala" },
+      "geometry": { "type": "Point", "coordinates": [29.90429, 61.73541] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Louhisaari", "municipality": "Parikkala" },
+      "geometry": { "type": "Point", "coordinates": [30.10197, 61.85709] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Ahotaipaleenmäki", "municipality": "Puumala" },
+      "geometry": { "type": "Point", "coordinates": [28.22435, 61.44831] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Ekelinniemi", "municipality": "Puumala" },
+      "geometry": { "type": "Point", "coordinates": [28.62616, 61.5226] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Iso Lepistönlahti", "municipality": "Puumala" },
+      "geometry": { "type": "Point", "coordinates": [28.65222, 61.53041] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Kuutinvuori", "municipality": "Puumala" },
+      "geometry": { "type": "Point", "coordinates": [28.11747, 61.56218] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Maksasaarenselkä", "municipality": "Puumala" },
+      "geometry": { "type": "Point", "coordinates": [28.49358, 61.52582] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Sourunniemi", "municipality": "Puumala" },
+      "geometry": { "type": "Point", "coordinates": [28.26836, 61.56518] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Syrjäsalmi", "municipality": "Puumala" },
+      "geometry": { "type": "Point", "coordinates": [28.31343, 61.53261] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Vetotaipale / Lieviskä", "municipality": "Puumala" },
+      "geometry": { "type": "Point", "coordinates": [28.63107, 61.53914] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Vuorilahti / Härätti", "municipality": "Puumala" },
+      "geometry": { "type": "Point", "coordinates": [28.59124, 61.51346] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Vuorilampi", "municipality": "Puumala" },
+      "geometry": { "type": "Point", "coordinates": [28.68549, 61.49084] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Völjärinsalmi", "municipality": "Puumala" },
+      "geometry": { "type": "Point", "coordinates": [28.13981, 61.6074] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Salminkallio", "municipality": "Pälkäne" },
+      "geometry": { "type": "Point", "coordinates": [24.72297, 61.34308] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Lammasjärvi", "municipality": "Raasepori" },
+      "geometry": { "type": "Point", "coordinates": [23.45989, 60.1342] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Pikku Kullaanjärvi", "municipality": "Raasepori" },
+      "geometry": { "type": "Point", "coordinates": [23.41404, 60.13013] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Rajaniemi", "municipality": "Rautalampi" },
+      "geometry": { "type": "Point", "coordinates": [26.66869, 62.5455] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Toussunlinna", "municipality": "Rautalampi" },
+      "geometry": { "type": "Point", "coordinates": [26.78836, 62.54643] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Riuttavuori", "municipality": "Rautjärvi" },
+      "geometry": { "type": "Point", "coordinates": [29.15078, 61.37665] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Torsanvuori", "municipality": "Rautjärvi" },
+      "geometry": { "type": "Point", "coordinates": [29.24088, 61.42565] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Kolmiköytisienvuori", "municipality": "Ruokolahti" },
+      "geometry": { "type": "Point", "coordinates": [28.62744, 61.27111] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Pytäränsaari Lapinvuori", "municipality": "Ruokolahti" },
+      "geometry": { "type": "Point", "coordinates": [28.46582, 61.49929] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Jäkälänjärvi Ruuniemi", "municipality": "Savitaipale" },
+      "geometry": { "type": "Point", "coordinates": [27.61291, 61.05133] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Niinivuori", "municipality": "Savitaipale" },
+      "geometry": { "type": "Point", "coordinates": [27.42049, 61.0568] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Haukkavuori / Ikoinniemi", "municipality": "Savonlinna" },
+      "geometry": { "type": "Point", "coordinates": [28.98428, 61.78129] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Murronvuori", "municipality": "Savonlinna" },
+      "geometry": { "type": "Point", "coordinates": [28.97256, 61.68589] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Orivuori", "municipality": "Savonlinna" },
+      "geometry": { "type": "Point", "coordinates": [29.07042, 61.77866] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Rapakko Saunalahdenniemi", "municipality": "Savonlinna" },
+      "geometry": { "type": "Point", "coordinates": [28.64131, 61.83947] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Suurijärvi", "municipality": "Savonlinna" },
+      "geometry": { "type": "Point", "coordinates": [29.11047, 61.80796] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Halolankallio", "municipality": "Sotkamo" },
+      "geometry": { "type": "Point", "coordinates": [28.24248, 64.16177] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Kivikirkko", "municipality": "Sulkava" },
+      "geometry": { "type": "Point", "coordinates": [28.26968, 61.68595] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Viidanmäki", "municipality": "Sulkava" },
+      "geometry": { "type": "Point", "coordinates": [28.42694, 61.72031] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Värikallio", "municipality": "Suomussalmi" },
+      "geometry": { "type": "Point", "coordinates": [29.30247, 65.51434] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Kannuksen linnavuori", "municipality": "Taipalsaari" },
+      "geometry": { "type": "Point", "coordinates": [27.89363, 61.17128] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Lintuinvuori", "municipality": "Taipalsaari" },
+      "geometry": { "type": "Point", "coordinates": [27.8584, 61.17465] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Ruusin Turasalo", "municipality": "Taipalsaari" },
+      "geometry": { "type": "Point", "coordinates": [28.06546, 61.12005] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Valkeisaari", "municipality": "Taipalsaari" },
+      "geometry": { "type": "Point", "coordinates": [27.9108, 61.14864] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Salmijärvi / Lautmäki", "municipality": "Vihti" },
+      "geometry": { "type": "Point", "coordinates": [24.52068, 60.36118] }
+    }
+  ]
+}

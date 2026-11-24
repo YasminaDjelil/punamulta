@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Punamulta</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,500;0,9..144,600;1,9..144,400&family=Source+Sans+3:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <a class="skip" href="#story">Skip to story</a>
+    <div id="map" aria-hidden="true"></div>
+    <div id="progress" aria-hidden="true"></div>
+    <div id="story"></div>
+    <nav class="slide-nav" aria-label="Slides">
+      <button type="button" data-dir="-1" aria-label="Previous slide">&#8593;</button>
+      <span class="slide-counter" aria-live="polite"></span>
+      <button type="button" data-dir="1" aria-label="Next slide">&#8595;</button>
+    </nav>
+    <div class="lightbox" role="dialog" aria-modal="true" aria-label="Image" hidden>
+      <button type="button" class="lightbox-close" aria-label="Close">&times;</button>
+      <figure>
+        <img alt="" />
+        <figcaption></figcaption>
+      </figure>
+    </div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
